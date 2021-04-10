@@ -31,8 +31,7 @@ body {
     background-color: #ffffff;
 
     position: absolute;
-    /* top: 0px; */
-    top: 20px;
+    top: 0px;
     left: 50%;
     /* transform: translate(-480px, 140px); */
     transform: translate(-480px, 99px);
